@@ -1,6 +1,6 @@
 # webproject
 
-got to project 
+got to project >dist >
 index-one-course.html
 
 heroku link not working as of now
