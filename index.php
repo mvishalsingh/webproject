@@ -1,3 +1,3 @@
 <?php
-include_once("../dist/index-one-course.html");
+include_once("dist/index-one-course.html");
 ?>
